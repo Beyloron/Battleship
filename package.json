@@ -1,0 +1,11 @@
+{
+  "name": "battleship",
+  "version": "1.0",
+  "main": "battleship.js",
+  "scripts": {
+    "start-game": "node battleship.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
