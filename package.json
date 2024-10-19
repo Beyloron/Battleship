@@ -3,7 +3,7 @@
   "version": "1.0",
   "main": "battleship.js",
   "scripts": {
-    "start-game": "node battleship.js"
+    "start-game": "node battleship_notes.js"
   },
   "dependencies": {
     "readline-sync": "^1.4.10"
